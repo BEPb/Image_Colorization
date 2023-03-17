@@ -31,7 +31,9 @@ pip install requirements.txt
 ```
 python main_colorize.py -i imgs_in/1.jpg
 ```
-<img src="./imgs_in/gif.gif" alt="img" width="190" height="150">
+
+
+<img src="./imgs_in/gif.gif" alt="gif">
 
 <div align="center">
 <img src="./imgs_in/1.jpg" alt="img" width="190" height="150">
