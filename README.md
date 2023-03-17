@@ -29,8 +29,9 @@ pip install requirements.txt
 **Colorize!** This script will colorize an image. The results should match the images in the `imgs_out` folder.
 
 ```
-python main_colorize.py -i imgs/1.jpg
+python main_colorize.py -i imgs_in/1.jpg
 ```
+<img src="./imgs_in/gif.gif" alt="img" width="190" height="150">
 
 <div align="center">
 <img src="./imgs_in/1.jpg" alt="img" width="190" height="150">
