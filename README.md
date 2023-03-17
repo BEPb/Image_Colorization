@@ -32,37 +32,37 @@ pip install requirements.txt
 python main_colorize.py -i imgs/1.jpg
 ```
 
-<div align="left">
+<div align="center">
 <img src="./imgs_in/1.jpg" alt="img" width="190" height="150">
 <img src="./imgs_out/1_eccv16.png" alt="img" width="190" height="150">
 </div>
 
-<div align="left">
+<div align="center">
 <img src="./imgs_in/2.jpg" alt="img" width="190" height="150">
 <img src="./imgs_out/2_eccv16.png" alt="img" width="190" height="150">
 </div>
 
-<div align="left">
+<div align="center">
 <img src="./imgs_in/3.jpg" alt="img" width="190" height="150">
 <img src="./imgs_out/3_eccv16.png" alt="img" width="190" height="150">
 </div>
 
-<div align="left">
+<div align="center">
 <img src="./imgs_in/4.jpg" alt="img" width="190" height="150">
 <img src="./imgs_out/4_siggraph17.png" alt="img" width="190" height="150">
 </div>
 
-<div align="left">
+<div align="center">
 <img src="./imgs_in/5.jpg" alt="img" width="190" height="150">
 <img src="./imgs_out/5_eccv16.png" alt="img" width="190" height="150">
 </div>
 
-<div align="left">
+<div align="center">
 <img src="./imgs_in/6.jpg" alt="img" width="190" height="150">
 <img src="./imgs_out/6_eccv16.png" alt="img" width="190" height="150">
 </div>
 
-<div align="left">
+<div align="center">
 <img src="./imgs_in/7.jpg" alt="img" width="190" height="150">
 <img src="./imgs_out/7_siggraph17.png" alt="img" width="190" height="150">
 </div>
